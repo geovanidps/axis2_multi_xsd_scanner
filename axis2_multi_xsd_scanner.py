@@ -23,7 +23,7 @@ def banner():
 ╔══════════════════════════════════════════════╗
 ║ Axis2 XSD Directory Traversal Multi-Scanner  ║
 ║ CVE: CVE-2010-0219 | Version: 1.0            ║
-║ Author:Maskot                          ║
+║ Author:Maskot                                ║
 ╚══════════════════════════════════════════════╝
 \033[0m""")
 
